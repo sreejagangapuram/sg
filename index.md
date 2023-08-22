@@ -66,3 +66,14 @@ title: Student Blog
 
 </body>
 </html>
+
+## CSA Weekly Updates 
+### Week 0 
+- Made changes to home page of blog and personalized it. 
+  - Made a logo and integrated it into my blog. 
+  - Integrated my about me drawing. 
+  - Added an HTML table for my senior year schedule 
+  - Will use issues to keep track of my progress and link them on this site. 
+
+### Week 1 
+- 
