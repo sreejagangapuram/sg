@@ -3,14 +3,12 @@ layout: default
 title: Student Blog
 ---
 
-<h1 align='center' style="color:#FF0000">Welcome to my blog/website for AP Computer Science A.</h1> 
+<h1 align='center' style="color:#FF0000">꒦꒷♡꒷꒦ Sreeja's Lab Notebook ꒦꒷♡꒷꒦</h1> 
 <img src="{{site.baseurl}}/images/CSA.png" alt="AP COMPUTER SCIENCE PRINCIPLES" width="350" height="300"> 
 
-## About Me 
-<img src="{{site.baseurl}}/images/peppa.png" alt="AP COMPUTER SCIENCE PRINCIPLES" width="800" height="300"> 
+<h1 align='center' style="color:#FF0000">About Me</h1> <img src="{{site.baseurl}}/images/peppa.png" alt="AP COMPUTER SCIENCE PRINCIPLES" width="800" height="300"> 
 
-## Senior Year Schedule 
-
+<h1 align='center' style="color:#FF0000">Senior Year Schedule</h1> 
 <html>
 <head>
 <style>
@@ -67,13 +65,12 @@ title: Student Blog
 </body>
 </html>
 
-## CSA Weekly Updates 
-### Week 0 
+<h1 align='center' style="color:#FF0000">My Weekly Progress</h1> 
+
+# Week 0 
+- All tools are installed and updated 
 - Made changes to home page of blog and personalized it. 
   - Made a logo and integrated it into my blog. 
   - Integrated my about me drawing. 
   - Added an HTML table for my senior year schedule 
   - Will use issues to keep track of my progress and link them on this site. 
-
-### Week 1 
-- 
