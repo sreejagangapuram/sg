@@ -74,3 +74,7 @@ title: Student Blog
   - Integrated my about me drawing. 
   - Added an HTML table for my senior year schedule 
   - Will use issues to keep track of my progress and link them on this site. 
+
+# Week 0 Collaboration 
+- worked together and fixed my notebook issue. my notebooks weren't showing up initally. 
+- facetimed last night (tuesday) to work on our blogs together and give feeback. we have good communication with each other and with the larger group of four: grace and rachit. We have also done group facetimes with our larger group. 
