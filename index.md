@@ -2,9 +2,10 @@
 layout: default
 title: Student Blog
 ---
-
-<h1 align='center' style="color:#FF0000">꒦꒷♡꒷꒦ Sreeja's Lab Notebook ꒦꒷♡꒷꒦</h1> 
-<img src="{{site.baseurl}}/images/CSA.png" alt="AP COMPUTER SCIENCE PRINCIPLES" width="350" height="300"> 
+<html>
+  <h1 align='center' style="color:#FF0000">꒦꒷♡꒷꒦ Sreeja's Lab Notebook ꒦꒷♡꒷꒦</h1> 
+  <img src="{{site.baseurl}}/images/CSA.png" alt="AP COMPUTER SCIENCE PRINCIPLES" style="text-align: center;"> 
+</html>
 
 <h1 align='center' style="color:#FF0000">About Me</h1> <img src="{{site.baseurl}}/images/peppa.png" alt="AP COMPUTER SCIENCE PRINCIPLES" width="800" height="300"> 
 
@@ -12,6 +13,10 @@ title: Student Blog
 <html>
 <head>
 <style>
+.centered-img {
+  text-align: "center";
+}
+
   table {
     border-collapse: collapse;
     width: 50%;
