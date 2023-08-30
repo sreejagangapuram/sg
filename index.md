@@ -122,8 +122,13 @@ th {
   <tr>
     <td>1</td>
     <td>
-    - Make Lab Notebook Table 
-    - make guessing game using javascript
+    - Make Lab Notebook Table - this table, customize it 
+
+      - make guessing game using javascript
+
+      - play test guessing game and get feedback
+
+     - make changes to game based on feedback
     
     - fill in planning, links, and summary tabs
     </td>
