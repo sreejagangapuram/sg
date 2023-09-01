@@ -121,11 +121,17 @@ th {
   </tr>
   <tr>
     <td>1</td>
-    <td>[Week 1 Plans](https://github.com/sreejagangapuram/Sreeja-Gangapuram/issues/59)</td>
-    <td>[Java Hello Hacks](https://sreejagangapuram.github.io/sg/c4.1/2023/09/01/jshellohacks_IPYNB_2_.html)
-    [Javascript Word Guessing Game](https://sreejagangapuram.github.io/sg/c4.1/2023/09/01/js_IPYNB_2_.html)</td>
-    <td>[Week 1 Summary](https://github.com/sreejagangapuram/Sreeja-Gangapuram/issues/60)</td>
-  </tr>
+    <td> <a href="https://github.com/sreejagangapuram/Sreeja-Gangapuram/issues/59">Week 1 Plans</a>
+</td>
+    <td>
+    <a href="https://sreejagangapuram.github.io/sg/c4.1/2023/09/01/jshellohacks_IPYNB_2_.html">Java Hello Hacks</a>
+
+    <a href="https://sreejagangapuram.github.io/sg/c4.1/2023/09/01/js_IPYNB_2_.html">Javascript Game</a>
+    
+    </td>
+    <td>
+    <a href="https://github.com/sreejagangapuram/Sreeja-Gangapuram/issues/60">Week 1 Summary</a>
+  
   <tr>
     <td></td>
     <td></td>
