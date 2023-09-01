@@ -121,19 +121,9 @@ th {
   </tr>
   <tr>
     <td>1</td>
-    <td>
-    - Make Lab Notebook Table - this table, customize it 
-
-      - make guessing game using javascript
-
-      - play test guessing game and get feedback
-
-     - make changes to game based on feedback
-    
-    - fill in planning, links, and summary tabs
-    </td>
+    <td>[Week 1 Plans](https://github.com/sreejagangapuram/Sreeja-Gangapuram/issues/59)</td>
     <td></td>
-    <td></td>
+    <td>[Week 1 Summary](https://github.com/sreejagangapuram/Sreeja-Gangapuram/issues/60)</td>
   </tr>
   <tr>
     <td></td>
