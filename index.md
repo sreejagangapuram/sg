@@ -122,7 +122,8 @@ th {
   <tr>
     <td>1</td>
     <td>[Week 1 Plans](https://github.com/sreejagangapuram/Sreeja-Gangapuram/issues/59)</td>
-    <td></td>
+    <td>[Java Hello Hacks](https://sreejagangapuram.github.io/sg/c4.1/2023/09/01/jshellohacks_IPYNB_2_.html)
+    [Javascript Word Guessing Game](https://sreejagangapuram.github.io/sg/c4.1/2023/09/01/js_IPYNB_2_.html)</td>
     <td>[Week 1 Summary](https://github.com/sreejagangapuram/Sreeja-Gangapuram/issues/60)</td>
   </tr>
   <tr>
