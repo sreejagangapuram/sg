@@ -3,7 +3,7 @@ layout: default
 title: Student Blog
 ---
 <html>
-  <h1 align='center' style="color:#FF0000">꒦꒷♡꒷꒦ Sreeja's Lab Notebook ꒦꒷♡꒷꒦</h1> 
+  <h1 align='center' style="color:#FF0000">꒦꒷♡꒷꒦ Sreeja's Time Box ꒦꒷♡꒷꒦</h1> 
   <img src="{{site.baseurl}}/images/CSA.png" alt="AP COMPUTER SCIENCE PRINCIPLES" style="text-align: center;"> 
 </html>
 
